@@ -1,0 +1,9 @@
+{
+  "db": {
+    "dbType": "MySql",
+    "connectionString": "Server=127.0.0.1;port=3306;UserId=root;Password=123456;Database=xxxxx;charset='utf8';Allow User Variables=True"
+  },
+  "setting": {
+    "ThreadPoolCount": 20 //线程池的数量配置，设置越大并行线程越多
+  }
+}
